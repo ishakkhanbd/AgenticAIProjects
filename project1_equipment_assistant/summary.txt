@@ -1,0 +1,8 @@
+This is a spec sheet for a semiconductor equipment. 
+The eqipment is a high uniformity electrostatic chuck. 
+The spec sheet describes: 
+1. system overview and core capabilities,
+2. thermal performance, 
+3. electrical spec, 
+4. mechanical and physical interface, 
+5. operating environment. 
