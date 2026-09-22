@@ -1,0 +1,3 @@
+Bienvenido al equipo.
+
+Hoy estamos creando un pequeño tutor de idiomas para ingenieros, paso a paso. Cada colaborador elige una tarea del tablero compartido, realiza el trabajo con cuidado y marca la tarea como completada. Lee atentamente tu tarea, tómate tu tiempo y da lo mejor de ti.
